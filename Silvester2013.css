@@ -1,0 +1,37 @@
+.xmas-background {
+	position: fixed; 
+  	top: 0; 
+  	left: -50%; 
+ 	width: 200%; 
+  	height: 200%;
+}
+
+.xmas-background-img {
+	  position: absolute; 
+	  top: 0; 
+	  left: 0; 
+	  right: 0; 
+	  bottom: 0; 
+	  margin: auto; 
+	  min-width: 50%;
+	  min-height: 50%;
+	  margin-top: 0px;
+}
+
+.site-background {position:relative; z-index:0;}
+
+.site-metanavi { background-color:transparent !important; }
+
+.metanavi-link, .metanavi-link:visited, .metanavi-link:link, .metanavi-link:active {color: #333 !important; font-weight:normal !important;}
+.metanavi-link:hover, .metanavi-active, .metanavi-active:link, .metanavi-active:visited, .metanavi-active:active { color: #bf0c04 !important; font-weight:normal !important;}
+
+.shadow-top{ background-image:url("/Global/Pictures/XMas/bg_site_content_shadow_top.png") !important; }
+.shadow-bottom{ background-image:url("/Global/Pictures/XMas/bg_site_content_shadow_bottom.png") !important; }
+
+.site-footer {
+    background-color: #fff !important;
+    background-image: url("/Global/Pictures/spacer.gif") !important;
+}
+
+.site-footer-content{ background-color:transparent !important; height:35px !important; }
+.shadow-bottom{ height:35px !important; }
