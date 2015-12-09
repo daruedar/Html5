@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+	
+	<head>
+		<title>daruedar.com</title>
+		<link href="bigteeth.css" rel="stylesheet" type="text/css" />
+		<link href="Silvester2013.css" rel="stylesheet" type="text/css" media="all">
+		<link href="screen_small.css" id="css" rel="stylesheet" type="text/css" media="all">
+		<link href="screen.css" rel="stylesheet" type="text/css" media="all"> 
+		<!--
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link href="images/template/bigteeth.css" rel="stylesheet" type="text/css" />
+		<link href="index.jsp_files/screen_small.css" id="css" rel="stylesheet" type="text/css" media="all">
+		<link href="index.jsp_files/Silvester2013.css" rel="stylesheet" type="text/css" media="all">
+		<link rel="stylesheet" type="text/css" href="N-2bmk_files/base.css">
+		<link rel="stylesheet" type="text/css" href="N-2bmk_files/carulla.css">
+		<link href="index.jsp_files/screen.css" rel="stylesheet" type="text/css" media="all"> 
+		
+		<style type="text/css">.pac-container{background-color:#fff;position:absolute!important;z-index:1000;border-radius:2px;border-top:1px solid #d9d9d9;font-family:Arial,sans-serif;box-shadow:0 2px 6px rgba(0,0,0,0.3);-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}.pac-container:after{content:"";padding:1px 1px 1px 0;height:16px;text-align:right;display:block;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white2.png);background-position:right;background-repeat:no-repeat;background-size:104px 16px}.hdpi.pac-container:after{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white2_hdpi.png)}.pac-item{cursor:default;padding:0 4px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;line-height:30px;text-align:left;border-top:1px solid #e6e6e6;font-size:11px;color:#999}.pac-item:hover{background-color:#fafafa}.pac-item-selected,.pac-item-selected:hover{background-color:#ebf2fe}.pac-matched{font-weight:700}.pac-item-query{font-size:13px;padding-right:3px;color:#000}.pac-icon{width:15px;height:20px;margin-right:7px;margin-top:6px;display:inline-block;vertical-align:top;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png);background-size:34px}.hdpi .pac-icon{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons_hdpi.png)}.pac-icon-search{background-position:-1px -1px}.pac-item-selected .pac-icon-search{background-position:-18px -1px}.pac-icon-marker{background-position:-1px -161px}.pac-item-selected .pac-icon-marker{background-position:-18px -161px}.pac-placeholder{color:gray}</style><style type="text/css">.pac-container{background-color:#fff;position:absolute!important;z-index:1000;border-radius:2px;border-top:1px solid #d9d9d9;font-family:Arial,sans-serif;box-shadow:0 2px 6px rgba(0,0,0,0.3);-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}.pac-container:after{content:"";padding:1px 1px 1px 0;height:16px;text-align:right;display:block;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white2.png);background-position:right;background-repeat:no-repeat;background-size:104px 16px}.hdpi.pac-container:after{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white2_hdpi.png)}.pac-item{cursor:default;padding:0 4px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;line-height:30px;text-align:left;border-top:1px solid #e6e6e6;font-size:11px;color:#999}.pac-item:hover{background-color:#fafafa}.pac-item-selected,.pac-item-selected:hover{background-color:#ebf2fe}.pac-matched{font-weight:700}.pac-item-query{font-size:13px;padding-right:3px;color:#000}.pac-icon{width:15px;height:20px;margin-right:7px;margin-top:6px;display:inline-block;vertical-align:top;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png);background-size:34px}.hdpi .pac-icon{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons_hdpi.png)}.pac-icon-search{background-position:-1px -1px}.pac-item-selected .pac-icon-search{background-position:-18px -1px}.pac-icon-marker{background-position:-1px -161px}.pac-item-selected .pac-icon-marker{background-position:-18px -161px}.pac-placeholder{color:gray}</style><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><link href="index.jsp_files/css.css" rel="stylesheet" type="text/css"><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style>
+		<style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}</style>
+		
+		<link rel="shortcut icon" href="https://www.kaufland.de/Global/Pictures/favicon.ico">  
+		
+		<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.7.1.custom.min.js"></script>
+		<script type="text/javascript" src="js/execute.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" ></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js" ></script>
+		-->	
+		
+		
+	</head>
+		
+	<body>
+		<div class="xmas-background">
+			<img src="hintergrund.jpg" alt="" class="xmas-background-img">
+		</div>	
+		<div class="site-background" id="basewrappernew">
+			<div class="shadow-middle">
+				<div class="site-metanavi">
+					<a href="" class="metanavi-link metanavi-active">Inicio</a>
+					<a href="" class="metanavi-link">Contacto</a>
+					<a href="" class="metanavi-link" >Noticias</a>
+					<a href="" class="metanavi-link" >Vacantes</a>
+					<a href="" class="metanavi-link" >Preguntas</a>				
+				</div>
+			</div>
+			<div class="shadow-middle">	
+				<!--Imagen de Fondo de encabezado-->
+				<div class="site-header" style="background-image: url('http://kaufland.de/Informationobjects/Globale_Objekte/20_Header_Hintergrund/website_header_2015_exquisit.jpg')">
+					<a href="" class="site-header-logo">
+						<img src="index.jsp_files/kl_logo_2015.png" alt="Logo" border="0"><!--Imagen de Fondo de encabezado-->
+					</a>	
+					<div class="site-header-shoppinglist">
+							<div class="site-header-shoppinglist-header kontext1">Lista de Productos</div>
+							<div class="site-header-shoppinglist-content">Su Lista de <span id="shoppinganz"></span>
+								<span id="shoppingtext" class="normal">compras esta </span>vacia.<br class="clearfix">
+								<p class="site-header-shoppinglist-link">
+									<a href="" target="_blank" onmousedown="ET_Event.eventStart('Grundfunktion','Einkaufsliste(3)','Aufruf')" onclick="shoppinglist.showShoppingList(); return false;" class="button" style="margin-top: 12px;">
+									Ver carro de compras</a>
+								</p>
+							</div>
+					</div>
+					<div class="site-header-navi">
+						<ul class="mainnavi-level-1">  
+							<li class="mainnavi-level-1-entry" style="width: 112px">		
+								<a href="">
+									<span style="width: 112px" class="mainnavi-level-1-all mainnavi-level-1-inactive">Ofertas</span>
+								</a>
+									<ul class="mainnavi-level-2">
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Ofertas1</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href="">
+												<span class="mainnavi-level-2-arrow"></span>Ofertas2
+											</a>
+										</li>
+									</ul>									
+								</li>
+								<li class="mainnavi-level-1-entry" style="width: 106px">		
+									<a href="">
+										<span style="width: 106px" class="mainnavi-level-1-all mainnavi-level-1-inactive">
+											Productos
+										</span>
+									</a>
+									<ul class="mainnavi-level-2">
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Comestibles</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Bebidas</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Light</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Dulces</a>
+										</li>
+									</ul>									
+								</li>
+								<li class="mainnavi-level-1-entry" style="width: 122px">		
+									<a href="">
+										<span style="width: 122px" class="mainnavi-level-1-all mainnavi-level-1-inactive">Nosotros</span>
+									</a>								
+								</li>
+								<li class="mainnavi-level-1-entry" style="width: 131px">		
+									<a href="http://kaufland.de/Home/04_Kundenservice/index.jsp">
+										<span style="width: 131px" class="mainnavi-level-1-all mainnavi-level-1-inactive">
+											Asistencia</span>
+									</a>
+									<ul class="mainnavi-level-2">
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Contacto</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Chat</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Facebook</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Prguntas Frecuentes</a>
+										</li>
+									</ul>									
+								</li>
+								<li class="mainnavi-level-1-entry" style="width: 121px">		
+									<a href="http://kaufland.de/Home/05_Unternehmen/index.jsp">
+										<span style="width: 121px" class="mainnavi-level-1-all mainnavi-level-1-inactive">Sucursales</span>
+									</a>
+									<ul class="mainnavi-level-2">
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Bogota</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Bucaramanga</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Medellín</a>
+										</li>
+									</ul>									
+								</li>
+								<li class="mainnavi-level-1-entry mainnavi-level-1-entry-last" style="width: 152px">		
+									<a href="">
+										<span style="width: 152px" class="mainnavi-level-1-all mainnavi-level-1-inactive">
+											Galeria
+										</span>
+									</a>
+									<ul class="mainnavi-level-2">
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Evento1</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Evento2</a>
+										</li>
+										<li class="mainnavi-level-2-entry">											
+											<a href=""><span class="mainnavi-level-2-arrow"></span>Evento3</a>
+										</li>
+									</ul>									
+								</li>
+							</ul> 
+					</div>
+				</div>
+			</div>
+		</div>
+		
+
+</body>
+</html>
